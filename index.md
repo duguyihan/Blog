@@ -51,9 +51,9 @@ hxhc@gxu.edu.cn
 ```
 
 # 个人主页：
-https://prof.gxu.edu.cn/teacherDetails/62c2e876-392e-4d40-b3db-7bd78c0e77ad
+https://prof.gxu.edu.cn/teacherDetails/62c2e876-392e-4d40-b3db-7bd78c0e77ad 
 
 https://duguyihan.github.io
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Hexiao](https://github.com/duguyihan/skills-communicate-using-markdown/Hexiao.jpg)
 
