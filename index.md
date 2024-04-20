@@ -11,3 +11,11 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` opensees
+dispbeamcolumn 1 1 1 2;
+```
