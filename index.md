@@ -89,7 +89,7 @@ hxhc@gxu.edu.cn
 
 # 个人主页：
 
-https://duguyihan.github.io/Blog
+https://hexiaohuangcan.github.io/Blog
 
-![Hexiao](https://github.com/duguyihan/Blog/blob/main/Hexiao50kb.jpg)
+![Photo](https://github.com/hexiaohuangcan/Blog/blob/main/Hexiao50kb.jpg)
 
