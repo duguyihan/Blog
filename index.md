@@ -50,10 +50,46 @@
 hxhc@gxu.edu.cn
 ```
 
+
+# 招生信息
+
+2024年招收结构工程方向3-4名硕士研究生，欢迎一志愿和调剂的学生联系。
+
+(仅一位：与新加坡南洋理工大学Li Bing教授合作招收一名硕士研究生。他的信息请查阅：https://www.ntu.edu.sg/research/faculty-directory/detail/rp00151）
+
+招聘要求：
+
+1.具有专业背景优先考虑；
+
+2.对科研有浓厚兴趣
+
+3.勤奋刻苦，积极主动；
+
+
+申请方式：
+
+申请者将以下文件的PDF版本发送到至邮箱hxhc@gxu.edu.cn。
+
+(1)详细个人简历
+
+(2)成绩单；
+
+目前课题组成员：
+
+2021级：国贤蕾（临沂大学），蒙贵（广西科技大学）
+
+2022级：韦禹行（广西大学），梁贤臻（中南林业科技大学），唐婕（南华大学），邓丽捷（南宁学院）
+
+2023级：许宁一（四川大学），宋文刚（成都锦城学院），李德昊（山东建筑大学）
+
+
+本课题组初始创建中，课题经费充足，每位学生配置一台计算机，氛围轻松。
+
+不管男女贫富，不分城市农村，不论专科本科二本三本本校外校，无论基础强弱英语好差，招生录取、培养训练、毕业学习，都一视同仁，以师生相称，但以朋友相待，细心指导，严格要求，学习上平等讨论，生活上关心帮助，不以一时的成败而喜忧，而以有利于未来一生的影响来造就。
+
 # 个人主页：
-https://prof.gxu.edu.cn/teacherDetails/62c2e876-392e-4d40-b3db-7bd78c0e77ad 
 
 https://duguyihan.github.io
 
-![Hexiao](https://github.com/duguyihan/skills-communicate-using-markdown/blob/main/Hexiao.jpg)
+![Hexiao](https://github.com/duguyihan/skills-communicate-using-markdown/blob/main/Hexiao50kb.jpg)
 
