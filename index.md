@@ -1,6 +1,6 @@
 # 个人简介
 
-何肖煌灿，男，广东珠海人，博士，土木建筑工程学院，助理教授。
+何肖煌灿，男，广东韶关人，博士，土木建筑工程学院，助理教授。
 
 欢迎本科生以本人为指导老师报名参加“全国大学生结构信息技术大赛”等学科竞赛。
 
@@ -46,14 +46,14 @@
 # 联系方式
 
 ## 邮箱
-``` opensees
+``` 
 hxhc@gxu.edu.cn
 ```
 
-## 个人主页：
+# 个人主页：
 https://prof.gxu.edu.cn/teacherDetails/62c2e876-392e-4d40-b3db-7bd78c0e77ad
 
-duguyihan.github.io
+https://duguyihan.github.io
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
