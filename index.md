@@ -89,7 +89,7 @@ hxhc@gxu.edu.cn
 
 # 个人主页：
 
-https://duguyihan.github.io/skills-communicate-using-markdown
+https://duguyihan.github.io/Blog
 
 ![Hexiao](https://github.com/duguyihan/Blog/blob/main/Hexiao50kb.jpg)
 
